@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8B4FB9C1-3655-4CA9-A5CF-916823E3BAC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2293CC6F-84B3-441E-B14E-79A21134EBDC}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MovieShopXS_DewulfArne", "src\MovieShopXS_DewulfArne\MovieShopXS_DewulfArne.xproj", "{5032CB2B-0B65-47AA-ACAB-388CF1AC8B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5032CB2B-0B65-47AA-ACAB-388CF1AC8B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5032CB2B-0B65-47AA-ACAB-388CF1AC8B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5032CB2B-0B65-47AA-ACAB-388CF1AC8B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5032CB2B-0B65-47AA-ACAB-388CF1AC8B22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5032CB2B-0B65-47AA-ACAB-388CF1AC8B22} = {8B4FB9C1-3655-4CA9-A5CF-916823E3BAC4}
+	EndGlobalSection
+EndGlobal
